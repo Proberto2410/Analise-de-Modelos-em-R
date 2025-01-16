@@ -1,4 +1,4 @@
-# Analise-de-Modelos-em-R
+# Analise de Modelos em R
 
 REGRESSÃO LINEAR MÚLTIPLA
 
